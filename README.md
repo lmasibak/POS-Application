@@ -1,5 +1,5 @@
 # POS-Application
-A simple and medium security level Point of Sale System for reference for anyone trying to 
+A simple and medium security level Point of Sale System for reference for anyone trying to make one.
 ![Screenshot 2025-04-10 at 14 25 53](https://github.com/user-attachments/assets/4d7f7045-213c-4be9-bec7-2d548a6a5786)
 ![Screenshot 2025-04-10 at 14 25 31](https://github.com/user-attachments/assets/ed00c405-0af3-4547-bcce-c5bf8bf93f09)
 ![Screenshot 2025-04-10 at 14 25 00](https://github.com/user-attachments/assets/81c3e57c-7c7d-4ec1-8c8a-a9d7396e8162)
