@@ -40,6 +40,18 @@ export default function VerificationPendingPage() {
       await new Promise((resolve) => setTimeout(resolve, 1500))
 
       // For demo purposes, randomly verify the user (20% chance)
+      // TODO:
+      // Rework verification of user and call from unique ID
+      // Focus of verification:
+      // 1. Staff numbers & Client side reference
+      //
+      //
+      //
+      //
+      // To be further reworked using async/await.
+      // Try catch to be implemented to decrease execution errors
+      //
+      //
       const isVerified = Math.random() < 0.2
 
       if (isVerified) {
